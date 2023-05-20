@@ -1,0 +1,2 @@
+ar/fgsoruco/opencv4/BuildConfig.java
+ ar.fgsoruco.opencv4.BuildConfig

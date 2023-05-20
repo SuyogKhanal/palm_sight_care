@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/palm_sight_care/BuildConfig.java
+ com.example.palm_sight_care.BuildConfig
