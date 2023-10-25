@@ -38,4 +38,4 @@ This project opens the door to further advancements and applications in cataract
 ---
 
 [![GitHub Stars](https://img.shields.io/github/stars/SuyogKhanal/palm_sight_care.svg?style=flat&logo=github&colorB=blue&label=Stars)](https://github.com/SuyogKhanal/palm_sight_care)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
