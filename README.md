@@ -24,7 +24,8 @@ The project's unique dataset and innovative methodology significantly contribute
 
 To download the application, scan the QR code from smartphone
 
-![PalmSightCare QR](https://github.com/SuyogKhanal/palm_sight_care/blob/main/assets/PalmSightCare.png)
+<img src="https://github.com/SuyogKhanal/palm_sight_care/blob/main/assets/PalmSightCare.png" width="200" height="200">
+
 
 
 ## Future Prospects
@@ -34,5 +35,5 @@ This project opens the door to further advancements and applications in cataract
 
 ---
 
-[![GitHub Stars](https://img.shields.io/github/stars/SuyogKhanal/palm_sight_care.svg?style=flat&logo=github&colorB=blue&label=Stars)](https://github.com/SuyogKhanal/palm_sight_care)
+
 
