@@ -22,13 +22,10 @@ The project's unique dataset and innovative methodology significantly contribute
 
 ## Usage
 
-To use the project, follow these simple steps:
+To download the application, scan the QR code from smartphone
 
-1. Clone the repository from GitHub.
-2. Install the required dependencies.
-3. Run the PalmSightCare Android application on your device.
-4. Capture or upload eye images for cataract detection.
-5. Receive rapid and accurate classifications for cataract, normal, and non-eye images.
+![PalmSightCare QR](https://github.com/SuyogKhanal/palm_sight_care/blob/main/assets/PalmSightCare.png)
+
 
 ## Future Prospects
 
