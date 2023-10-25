@@ -24,7 +24,7 @@ The project's unique dataset and innovative methodology significantly contribute
 
 To download the application, scan the QR code from smartphone
 
-<img src="https://github.com/SuyogKhanal/palm_sight_care/blob/main/assets/PalmSightCare.png" width="200" height="200">
+<img src="https://github.com/SuyogKhanal/palm_sight_care/blob/main/assets/PalmSightCare.png" width="400" height="400">
 
 
 
